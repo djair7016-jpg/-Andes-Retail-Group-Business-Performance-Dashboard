@@ -1,0 +1,2 @@
+# -Andes-Retail-Group-Business-Performance-Dashboard
+A Business Intelligence project developed in Power BI to analyze the business performance of Andes Retail Group during the 2024–2025 period. The dashboard integrates financial and business metrics, time-series analysis, and customer segmentation, with the goal of transforming sales data into clear, visual, and useful information for decision-making

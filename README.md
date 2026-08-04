@@ -111,15 +111,6 @@ The detailed page allows users to explore:
 - Seasonal analysis
 - Executive data visualization
 
-## Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](images/executive_overview.png)
-
-### Detailed Analysis
-
-![Detailed Analysis](images/detailed_analysis.png)
 
 ## Repository Structure
 
